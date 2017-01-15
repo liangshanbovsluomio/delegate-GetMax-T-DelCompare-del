@@ -1,0 +1,6 @@
+d:\Visual Studio 2017\Projects\委托练习\用委托比较数组中组件大小（泛型)\bin\Debug\用委托比较数组中组件大小（泛型).exe.config
+d:\Visual Studio 2017\Projects\委托练习\用委托比较数组中组件大小（泛型)\bin\Debug\用委托比较数组中组件大小（泛型).exe
+d:\Visual Studio 2017\Projects\委托练习\用委托比较数组中组件大小（泛型)\bin\Debug\用委托比较数组中组件大小（泛型).pdb
+d:\Visual Studio 2017\Projects\委托练习\用委托比较数组中组件大小（泛型)\obj\Debug\用委托比较数组中组件大小（泛型).csprojResolveAssemblyReference.cache
+d:\Visual Studio 2017\Projects\委托练习\用委托比较数组中组件大小（泛型)\obj\Debug\用委托比较数组中组件大小（泛型).exe
+d:\Visual Studio 2017\Projects\委托练习\用委托比较数组中组件大小（泛型)\obj\Debug\用委托比较数组中组件大小（泛型).pdb
